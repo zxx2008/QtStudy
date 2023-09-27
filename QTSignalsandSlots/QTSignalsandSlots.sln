@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QTSignalsandSlots", "QTSignalsandSlots\QTSignalsandSlots.vcxproj", "{D78B8BC9-C318-4AD8-A494-14B4BBF94BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78B8BC9-C318-4AD8-A494-14B4BBF94BC3}.Debug|x64.ActiveCfg = Debug|x64
+		{D78B8BC9-C318-4AD8-A494-14B4BBF94BC3}.Debug|x64.Build.0 = Debug|x64
+		{D78B8BC9-C318-4AD8-A494-14B4BBF94BC3}.Release|x64.ActiveCfg = Release|x64
+		{D78B8BC9-C318-4AD8-A494-14B4BBF94BC3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E28B01-3A57-47F1-B73F-ADC4EC592C35}
+	EndGlobalSection
+EndGlobal
