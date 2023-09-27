@@ -1,6 +1,7 @@
 #pragma once
 
 #include <QObject>
+#include <QString>
 
 class Student : public QObject {
 	Q_OBJECT;
@@ -12,4 +13,5 @@ signals:
 
 public slots:
 	void treat();
+	void treat(QString str);
 };

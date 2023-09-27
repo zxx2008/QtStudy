@@ -1,6 +1,7 @@
 #pragma once
 
 #include <QObject>
+#include <QString>
 
 class Teacher : public QObject {
 	Q_OBJECT;
@@ -10,4 +11,5 @@ public:
 signals:
 	//Teacher ÐÅºÅ£¬¶öÁË
 	void hungery();
+	void hungery(QString str);
 };
