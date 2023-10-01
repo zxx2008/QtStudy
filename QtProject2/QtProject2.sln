@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtProject2", "QtProject2\QtProject2.vcxproj", "{F248CBBD-25C9-4F6C-9208-9A6BB435A5DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtDialog对话框", "QtDialog对话框\QtDialog对话框.vcxproj", "{996D83A8-605A-4772-9EED-5A376C8C3F62}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogInWindow", "LogInWindow\LogInWindow.vcxproj", "{894537BA-71FB-43B9-9A57-AA62B23B5D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +19,14 @@ Global
 		{F248CBBD-25C9-4F6C-9208-9A6BB435A5DC}.Debug|x64.Build.0 = Debug|x64
 		{F248CBBD-25C9-4F6C-9208-9A6BB435A5DC}.Release|x64.ActiveCfg = Release|x64
 		{F248CBBD-25C9-4F6C-9208-9A6BB435A5DC}.Release|x64.Build.0 = Release|x64
+		{996D83A8-605A-4772-9EED-5A376C8C3F62}.Debug|x64.ActiveCfg = Debug|x64
+		{996D83A8-605A-4772-9EED-5A376C8C3F62}.Debug|x64.Build.0 = Debug|x64
+		{996D83A8-605A-4772-9EED-5A376C8C3F62}.Release|x64.ActiveCfg = Release|x64
+		{996D83A8-605A-4772-9EED-5A376C8C3F62}.Release|x64.Build.0 = Release|x64
+		{894537BA-71FB-43B9-9A57-AA62B23B5D26}.Debug|x64.ActiveCfg = Debug|x64
+		{894537BA-71FB-43B9-9A57-AA62B23B5D26}.Debug|x64.Build.0 = Debug|x64
+		{894537BA-71FB-43B9-9A57-AA62B23B5D26}.Release|x64.ActiveCfg = Release|x64
+		{894537BA-71FB-43B9-9A57-AA62B23B5D26}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

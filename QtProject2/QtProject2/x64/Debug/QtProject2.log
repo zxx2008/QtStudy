@@ -1,5 +1,9 @@
-﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+﻿  Reading Qt configuration (D:/Qt/5.9.3/msvc2017_64/bin/qmake)
+  uic QtProject2.ui
+  rcc QtProject2.qrc
+  moc QtProject2.h
   QtProject2.cpp
   main.cpp
+  qrc_QtProject2.cpp
   moc_QtProject2.cpp
-  QtProject2.vcxproj -> D:\workspace\QtStudy\QtProject2\x64\Debug\QtProject2.exe
+  QtProject2.vcxproj -> D:\workspace\MyNote\QtStudy\QtProject2\x64\Debug\QtProject2.exe
