@@ -1,3 +1,2 @@
-﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
-  QTSignalsandSlots.cpp
-  QTSignalsandSlots.vcxproj -> D:\workspace\QtStudy\QTSignalsandSlots\x64\Debug\QTSignalsandSlots.exe
+﻿C:\Users\26659\AppData\Local\QtMsBuild\qt_vars.targets(68,5): error : There's no Qt version assigned to project QTSignalsandSlots.vcxproj for configuration Debug/x64.
+C:\Users\26659\AppData\Local\QtMsBuild\qt_vars.targets(68,5): error : Please set a Qt installation in 'Project|Properties|Configuration Properties|Qt Project Settings|Qt Installation'.
