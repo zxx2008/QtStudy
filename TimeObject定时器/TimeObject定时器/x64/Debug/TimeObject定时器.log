@@ -1,13 +1,3 @@
-﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
-  uic TimeObject.ui
-  rcc TimeObject.qrc
-  moc TimeObject.h
-  moc myLabel.h
-   RCC: Warning: No resources in 'D:\workspace\QtStudy\TimeObject瀹氭椂鍣╘TimeObject瀹氭椂鍣╘TimeObject.qrc'.
-  myLabel.cpp
+﻿  Reading Qt configuration (D:/Qt/5.9.3/msvc2017_64/bin/qmake)
   TimeObject.cpp
-  main.cpp
-  qrc_TimeObject.cpp
-  moc_TimeObject.cpp
-  moc_myLabel.cpp
-  TimeObject定时器.vcxproj -> D:\workspace\QtStudy\TimeObject定时器\x64\Debug\TimeObject定时器.exe
+  TimeObject定时器.vcxproj -> D:\workspace\MyNote\QtStudy\TimeObject定时器\x64\Debug\TimeObject定时器.exe
